@@ -7,6 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <uninstd.h>
 
 /*Library para threads*/
 #include <pthread.h>
@@ -17,8 +18,6 @@
 /*Numero de threads*/
 #define length 10
 
-/*Declaracion del write*/
-ssize_t write(int fildes, const void *buf, size_t nbyte);
 char buffer[128]; /* Auxiliar para el write*/
 
 /* Estructuras para semaforos*/
