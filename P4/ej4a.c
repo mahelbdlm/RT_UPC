@@ -22,8 +22,6 @@ Protocolo:
 #include <sys/types.h>
 #include <unistd.h>
 
-/*Declaracion del write*/
-ssize_t write(int fildes, const void *buf, size_t nbyte);
 char buffer[128]; /* Auxiliar para el write*/
 
 /*Constantes*/
