@@ -15,5 +15,6 @@ Ejemplo de compilación P4
 Algunos apartados necesitan compilar con  ```-lrt``` (los que utilizan mqueue)
 
 P6: 
-Para utilizar el socket, primero se debe ejecutar el servidor. Luego, ejecutar el cliente de la manera siguiente: 
+Para utilizar el socket, primero se debe ejecutar el servidor. 
+Luego, ejecutar el cliente de la manera siguiente: 
 ```./ej4_client localhost```.
