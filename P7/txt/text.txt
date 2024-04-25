@@ -1,0 +1,6 @@
+Hola esto es un texto test
+Este texto contiene 71 caracteres
+y 3 lineas
+Otro texto
+Ahora si que tengo 6 lineas
+Y mucho mas caracteres
