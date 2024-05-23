@@ -22,3 +22,8 @@ Luego, ejecutar el cliente de la manera siguiente: ```./ej4_client localhost```.
 
 
 Compilación P7: No olvidar el flag ```-pthread```
+
+---
+Deliverables: 10
+Summary: 10
+Project: ?
